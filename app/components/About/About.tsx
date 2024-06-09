@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="flex flex-col justify-center items-center w-full">
       <div className="bg-white cursor-pointer group border-2 border-solid hover:bg-spanhov hover:border-transparent border-[#dc4b20] flex items-center text-center py-3 px-5 rounded-30 mb-24">
-        <span className="text-[#dc4b20] font-black group-hover:text-white">Xem tất cả giải pháp</span>
+        <span className="text-[#dc4b20] font-bold group-hover:text-white">Xem tất cả giải pháp</span>
       </div>
       <div className="container">
         <div className='flex flex-wrap'>

@@ -17,42 +17,42 @@ const KnowledgeContainer = () => {
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     },
     {
       imgSrc : kn2,
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     },
     {
       imgSrc : kn3,
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     },
     {
       imgSrc : kn4,
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     },
     {
       imgSrc : kn5,
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     },
     {
       imgSrc : kn6,
       title : "Quản lý sản xuất ERP là gì? Ứng dụng của nó trong hoạt động sản xuất của doanh nghiệp",
       date : "15/04/2024",
       view : "212",
-      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan..."
+      desc: "Việc áp dụng các giải pháp phần mềm tiên tiến như hệ thống hoạch định nguồn lực doanh nghiệp (ERP) đóng vai trò quan"
     }
   ]
   return (

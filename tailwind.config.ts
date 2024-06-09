@@ -50,6 +50,7 @@ const config: Config = {
         "btn-about" : "0px 4px 25px rgba(0, 0, 0, 0.25)",
         "card" : "0 4px 8px rgba(0, 0, 0, 0.1)",
         "cardhov" : "0 8px 16px rgba(0, 0, 0, 0.2)",
+        "slidebtn" : "0px 4px 30px rgba(235, 114, 87, 0.27)"
       },
     },
   },
